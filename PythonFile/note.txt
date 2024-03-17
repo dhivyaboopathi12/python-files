@@ -1,0 +1,4 @@
+Install openpyxl  (to read and update excel)
+install smtplib(python lib ) & email (to send mail)
+Multipurpose Internet Mail Extensions (MIME)
+smtplib and email.mime modules are used to send the mail in this script
